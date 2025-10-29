@@ -1,3 +1,9 @@
+# Image quality evaluation metric for generative models
+
+Refer to the paper *./AMICON_paper.pdf* for details about this work, including setup, models, datasets and image quality evaluation metrics used, as well as proposed metric and results.
+
+---
+
 Ревера Ярослав ПМІ-45, бакалаврська робота 2025. 
 
 ДОСЛІДЖЕННЯ ТА АДАПТАЦІЯ МЕТРИК ОЦІНКИ ЯКОСТІ ЗОБРАЖЕНЬ ДЛЯ ГЕНЕРАТИВНИХ НЕЙРОННИХ МЕРЕЖ
